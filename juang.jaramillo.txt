@@ -1,1 +1,4 @@
 trainin GIT
+
+
+Testing changes in git bush.. espero que esto funcione al pelo

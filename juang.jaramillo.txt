@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+trainin GIT clase de hoy 18
+=======
 
 Testing changes in git bush.. espero que esto funcione al pelo
+>>>>>>> fe599b0d888b32fc0b39f8559f19923120cc23da
